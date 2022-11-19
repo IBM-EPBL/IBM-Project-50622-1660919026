@@ -1,2 +1,6 @@
 # IBM-Project-50622-1660919026
-Real-Time Communication System Powered by AI for Specially Abled
+*Real-Time Communication System Powered by AI for Specially Abled
+TEAM LEADRER :K.KASI VISWANATH
+TEAM MEMBER1 :M.DIGVIJAY KUMAR
+TEAM MEMBER2 :V.MAHENDRA KUMAR
+TEAM MEMBER3 :SYED ASRAR SHAH
